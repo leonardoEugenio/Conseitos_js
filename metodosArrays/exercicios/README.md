@@ -2,7 +2,7 @@
 	 Antes de ver o arquivo correspondente ao exercicio tente fazer você tambem
 
 # Exercícios :
- - [ ] **Ex.01** Crie uma função que recebe um array de 2 números e coloque eles em ordem crescente. Não use o   método sort;
+ - [x] **Ex.01** Crie uma função que recebe um array de 2 números e coloque eles em ordem crescente. Não use o   método sort;
  
  - [ ] **Ex.02** Crie uma função que recebe um array de 3 números e coloque eles em ordem crescente. Crie sua própria função para isso;
  
